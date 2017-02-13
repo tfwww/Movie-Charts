@@ -975,25 +975,25 @@ latlong.ZW = {
 var mapData = [{
         'code': 'AF',
         'name': 'Afghanistan',
-        'value': 0,
+        //'value': 0,
         'color': '#eea638'
     },
     {
         'code': 'AL',
         'name': 'Albania',
-        'value': 0,
+        //'value': 0,
         'color': '#d8854f'
     },
     {
         'code': 'DZ',
         'name': 'Algeria',
-        'value': 0,
+        //'value': 0,
         'color': '#de4c4f'
     },
     {
         'code': 'AO',
         'name': 'Angola',
-        'value': 0,
+        //'value': 0,
         'color': '#de4c4f'
     },
     {
@@ -1005,7 +1005,7 @@ var mapData = [{
     {
         'code': 'AM',
         'name': 'Armenia',
-        'value': 0,
+        //'value': 0,
         'color': '#d8854f'
     },
     {
@@ -1023,25 +1023,25 @@ var mapData = [{
     {
         'code': 'AZ',
         'name': 'Azerbaijan',
-        'value': 0,
+        //'value': 0,
         'color': '#d8854f'
     },
     {
         'code': 'BH',
         'name': 'Bahrain',
-        'value': 0,
+        //'value': 0,
         'color': '#eea638'
     },
     {
         'code': 'BD',
         'name': 'Bangladesh',
-        'value': 0,
+        //'value': 0,
         'color': '#eea638'
     },
     {
         'code': 'BY',
         'name': 'Belarus',
-        'value': 0,
+        //'value': 0,
         'color': '#d8854f'
     },
     {
@@ -1053,25 +1053,25 @@ var mapData = [{
     {
         'code': 'BJ',
         'name': 'Benin',
-        'value': 0,
+        //'value': 0,
         'color': '#de4c4f'
     },
     {
         'code': 'BT',
         'name': 'Bhutan',
-        'value': 0,
+        //'value': 0,
         'color': '#eea638'
     },
     {
         'code': 'BO',
         'name': 'Bolivia',
-        'value': 0,
+        //'value': 0,
         'color': '#86a965'
     },
     {
         'code': 'BA',
         'name': 'Bosnia and Herzegovina',
-        'value': 0,
+        //'value': 0,
         'color': '#d8854f'
     },
     {
@@ -1089,37 +1089,37 @@ var mapData = [{
     {
         'code': 'BN',
         'name': 'Brunei',
-        'value': 0,
+        //'value': 0,
         'color': '#eea638'
     },
     {
         'code': 'BG',
         'name': 'Bulgaria',
-        'value': 0,
+        //'value': 0,
         'color': '#d8854f'
     },
     {
         'code': 'BF',
         'name': 'Burkina Faso',
-        'value': 0,
+        //'value': 0,
         'color': '#de4c4f'
     },
     {
         'code': 'BI',
         'name': 'Burundi',
-        'value': 0,
+        //'value': 0,
         'color': '#de4c4f'
     },
     {
         'code': 'KH',
         'name': 'Cambodia',
-        'value': 0,
+        //'value': 0,
         'color': '#eea638'
     },
     {
         'code': 'CM',
         'name': 'Cameroon',
-        'value': 0,
+        //'value': 0,
         'color': '#de4c4f'
     },
     {
@@ -1131,25 +1131,25 @@ var mapData = [{
     {
         'code': 'CV',
         'name': 'Cape Verde',
-        'value': 0,
+        //'value': 0,
         'color': '#de4c4f'
     },
     {
         'code': 'CF',
         'name': 'Central African Rep.',
-        'value': 0,
+        //'value': 0,
         'color': '#de4c4f'
     },
     {
         'code': 'TD',
         'name': 'Chad',
-        'value': 0,
+        //'value': 0,
         'color': '#de4c4f'
     },
     {
         'code': 'CL',
         'name': 'Chile',
-        'value': 0,
+        //'value': 0,
         'color': '#86a965'
     },
     {
@@ -1161,55 +1161,55 @@ var mapData = [{
     {
         'code': 'CO',
         'name': 'Colombia',
-        'value': 0,
+        //'value': 0,
         'color': '#86a965'
     },
     {
         'code': 'KM',
         'name': 'Comoros',
-        'value': 0,
+        //'value': 0,
         'color': '#de4c4f'
     },
     {
         'code': 'CD',
         'name': 'Congo, Dem. Rep.',
-        'value': 0,
+        //'value': 0,
         'color': '#de4c4f'
     },
     {
         'code': 'CG',
         'name': 'Congo, Rep.',
-        'value': 0,
+        //'value': 0,
         'color': '#de4c4f'
     },
     {
         'code': 'CR',
         'name': 'Costa Rica',
-        'value': 0,
+        //'value': 0,
         'color': '#a7a737'
     },
     {
         'code': 'CI',
         'name': 'Cote d\'Ivoire',
-        'value': 0,
+        //'value': 0,
         'color': '#de4c4f'
     },
     {
         'code': 'HR',
         'name': 'Croatia',
-        'value': 0,
+        //'value': 0,
         'color': '#d8854f'
     },
     {
         'code': 'CU',
         'name': 'Cuba',
-        'value': 0,
+        //'value': 0,
         'color': '#a7a737'
     },
     {
         'code': 'CY',
         'name': 'Cyprus',
-        'value': 0,
+        //'value': 0,
         'color': '#d8854f'
     },
     {
@@ -1227,67 +1227,67 @@ var mapData = [{
     {
         'code': 'DJ',
         'name': 'Djibouti',
-        'value': 0,
+        //'value': 0,
         'color': '#de4c4f'
     },
     {
         'code': 'DO',
         'name': 'Dominican Rep.',
-        'value': 0,
+        //'value': 0,
         'color': '#a7a737'
     },
     {
         'code': 'EC',
         'name': 'Ecuador',
-        'value': 0,
+        //'value': 0,
         'color': '#86a965'
     },
     {
         'code': 'EG',
         'name': 'Egypt',
-        'value': 0,
+        //'value': 0,
         'color': '#de4c4f'
     },
     {
         'code': 'SV',
         'name': 'El Salvador',
-        'value': 0,
+        //'value': 0,
         'color': '#a7a737'
     },
     {
         'code': 'GQ',
         'name': 'Equatorial Guinea',
-        'value': 0,
+        //'value': 0,
         'color': '#de4c4f'
     },
     {
         'code': 'ER',
         'name': 'Eritrea',
-        'value': 0,
+        //'value': 0,
         'color': '#de4c4f'
     },
     {
         'code': 'EE',
         'name': 'Estonia',
-        'value': 0,
+        //'value': 0,
         'color': '#d8854f'
     },
     {
         'code': 'ET',
         'name': 'Ethiopia',
-        'value': 0,
+        //'value': 0,
         'color': '#de4c4f'
     },
     {
         'code': 'FJ',
         'name': 'Fiji',
-        'value': 0,
+        //'value': 0,
         'color': '#8aabb0'
     },
     {
         'code': 'FI',
         'name': 'Finland',
-        'value': 0,
+        //'value': 0,
         'color': '#d8854f'
     },
     {
@@ -1299,13 +1299,13 @@ var mapData = [{
     {
         'code': 'GA',
         'name': 'Gabon',
-        'value': 0,
+        //'value': 0,
         'color': '#de4c4f'
     },
     {
         'code': 'GM',
         'name': 'Gambia',
-        'value': 0,
+        //'value': 0,
         'color': '#de4c4f'
     },
     {
@@ -1323,49 +1323,49 @@ var mapData = [{
     {
         'code': 'GH',
         'name': 'Ghana',
-        'value': 0,
+        //'value': 0,
         'color': '#de4c4f'
     },
     {
         'code': 'GR',
         'name': 'Greece',
-        'value': 0,
+        //'value': 0,
         'color': '#d8854f'
     },
     {
         'code': 'GT',
         'name': 'Guatemala',
-        'value': 0,
+        //'value': 0,
         'color': '#a7a737'
     },
     {
         'code': 'GN',
         'name': 'Guinea',
-        'value': 0,
+        //'value': 0,
         'color': '#de4c4f'
     },
     {
         'code': 'GW',
         'name': 'Guinea-Bissau',
-        'value': 0,
+        //'value': 0,
         'color': '#de4c4f'
     },
     {
         'code': 'GY',
         'name': 'Guyana',
-        'value': 0,
+        //'value': 0,
         'color': '#86a965'
     },
     {
         'code': 'HT',
         'name': 'Haiti',
-        'value': 0,
+        //'value': 0,
         'color': '#a7a737'
     },
     {
         'code': 'HN',
         'name': 'Honduras',
-        'value': 0,
+        //'value': 0,
         'color': '#a7a737'
     },
     {
@@ -1377,13 +1377,13 @@ var mapData = [{
     {
         'code': 'HU',
         'name': 'Hungary',
-        'value': 0,
+        //'value': 0,
         'color': '#d8854f'
     },
     {
         'code': 'IS',
         'name': 'Iceland',
-        'value': 0,
+        //'value': 0,
         'color': '#d8854f'
     },
     {
@@ -1395,7 +1395,7 @@ var mapData = [{
     {
         'code': 'ID',
         'name': 'Indonesia',
-        'value': 0,
+        //'value': 0,
         'color': '#eea638'
     },
     {
@@ -1407,7 +1407,7 @@ var mapData = [{
     {
         'code': 'IQ',
         'name': 'Iraq',
-        'value': 0,
+        //'value': 0,
         'color': '#eea638'
     },
     {
@@ -1419,7 +1419,7 @@ var mapData = [{
     {
         'code': 'IL',
         'name': 'Israel',
-        'value': 0,
+        //'value': 0,
         'color': '#eea638'
     },
     {
@@ -1431,7 +1431,7 @@ var mapData = [{
     {
         'code': 'JM',
         'name': 'Jamaica',
-        'value': 0,
+        //'value': 0,
         'color': '#a7a737'
     },
     {
@@ -1443,25 +1443,25 @@ var mapData = [{
     {
         'code': 'JO',
         'name': 'Jordan',
-        'value': 0,
+        //'value': 0,
         'color': '#eea638'
     },
     {
         'code': 'KZ',
         'name': 'Kazakhstan',
-        'value': 0,
+        //'value': 0,
         'color': '#eea638'
     },
     {
         'code': 'KE',
         'name': 'Kenya',
-        'value': 0,
+        //'value': 0,
         'color': '#de4c4f'
     },
     {
         'code': 'KP',
         'name': 'Korea, Dem. Rep.',
-        'value': 0,
+        //'value': 0,
         'color': '#eea638'
     },
     {
@@ -1473,163 +1473,163 @@ var mapData = [{
     {
         'code': 'KW',
         'name': 'Kuwait',
-        'value': 0,
+        //'value': 0,
         'color': '#eea638'
     },
     {
         'code': 'KG',
         'name': 'Kyrgyzstan',
-        'value': 0,
+        //'value': 0,
         'color': '#eea638'
     },
     {
         'code': 'LA',
         'name': 'Laos',
-        'value': 0,
+        //'value': 0,
         'color': '#eea638'
     },
     {
         'code': 'LV',
         'name': 'Latvia',
-        'value': 0,
+        //'value': 0,
         'color': '#d8854f'
     },
     {
         'code': 'LB',
         'name': 'Lebanon',
-        'value': 0,
+        //'value': 0,
         'color': '#eea638'
     },
     {
         'code': 'LS',
         'name': 'Lesotho',
-        'value': 0,
+        //'value': 0,
         'color': '#de4c4f'
     },
     {
         'code': 'LR',
         'name': 'Liberia',
-        'value': 0,
+        //'value': 0,
         'color': '#de4c4f'
     },
     {
         'code': 'LY',
         'name': 'Libya',
-        'value': 0,
+        //'value': 0,
         'color': '#de4c4f'
     },
     {
         'code': 'LT',
         'name': 'Lithuania',
-        'value': 0,
+        //'value': 0,
         'color': '#d8854f'
     },
     {
         'code': 'LU',
         'name': 'Luxembourg',
-        'value': 0,
+        //'value': 0,
         'color': '#d8854f'
     },
     {
         'code': 'MK',
         'name': 'Macedonia, FYR',
-        'value': 0,
+        //'value': 0,
         'color': '#d8854f'
     },
     {
         'code': 'MG',
         'name': 'Madagascar',
-        'value': 0,
+        //'value': 0,
         'color': '#de4c4f'
     },
     {
         'code': 'MW',
         'name': 'Malawi',
-        'value': 0,
+        //'value': 0,
         'color': '#de4c4f'
     },
     {
         'code': 'MY',
         'name': 'Malaysia',
-        'value': 0,
+        //'value': 0,
         'color': '#eea638'
     },
     {
         'code': 'ML',
         'name': 'Mali',
-        'value': 0,
+        //'value': 0,
         'color': '#de4c4f'
     },
     {
         'code': 'MR',
         'name': 'Mauritania',
-        'value': 0,
+        //'value': 0,
         'color': '#de4c4f'
     },
     {
         'code': 'MU',
         'name': 'Mauritius',
-        'value': 0,
+        //'value': 0,
         'color': '#de4c4f'
     },
     {
         'code': 'MX',
         'name': 'Mexico',
-        'value': 0,
+        //'value': 0,
         'color': '#a7a737'
     },
     {
         'code': 'MD',
         'name': 'Moldova',
-        'value': 0,
+        //'value': 0,
         'color': '#d8854f'
     },
     {
         'code': 'MN',
         'name': 'Mongolia',
-        'value': 0,
+        //'value': 0,
         'color': '#eea638'
     },
     {
         'code': 'ME',
         'name': 'Montenegro',
-        'value': 0,
+        //'value': 0,
         'color': '#d8854f'
     },
     {
         'code': 'MA',
         'name': 'Morocco',
-        'value': 0,
+        //'value': 0,
         'color': '#de4c4f'
     },
     {
         'code': 'MZ',
         'name': 'Mozambique',
-        'value': 0,
+        //'value': 0,
         'color': '#de4c4f'
     },
     {
         'code': 'MM',
         'name': 'Myanmar',
-        'value': 0,
+        //'value': 0,
         'color': '#eea638'
     },
     {
         'code': 'NA',
         'name': 'Namibia',
-        'value': 0,
+        //'value': 0,
         'color': '#de4c4f'
     },
     {
         'code': 'NP',
         'name': 'Nepal',
-        'value': 0,
+        //'value': 0,
         'color': '#eea638'
     },
     {
         'code': 'NL',
         'name': 'Netherlands',
-        'value': 0,
+        //'value': 0,
         'color': '#d8854f'
     },
     {
@@ -1641,67 +1641,67 @@ var mapData = [{
     {
         'code': 'NI',
         'name': 'Nicaragua',
-        'value': 0,
+        //'value': 0,
         'color': '#a7a737'
     },
     {
         'code': 'NE',
         'name': 'Niger',
-        'value': 0,
+        //'value': 0,
         'color': '#de4c4f'
     },
     {
         'code': 'NG',
         'name': 'Nigeria',
-        'value': 0,
+        //'value': 0,
         'color': '#de4c4f'
     },
     {
         'code': 'NO',
         'name': 'Norway',
-        'value': 0,
+        //'value': 0,
         'color': '#d8854f'
     },
     {
         'code': 'OM',
         'name': 'Oman',
-        'value': 0,
+        //'value': 0,
         'color': '#eea638'
     },
     {
         'code': 'PK',
         'name': 'Pakistan',
-        'value': 0,
+        //'value': 0,
         'color': '#eea638'
     },
     {
         'code': 'PA',
         'name': 'Panama',
-        'value': 0,
+        //'value': 0,
         'color': '#a7a737'
     },
     {
         'code': 'PG',
         'name': 'Papua New Guinea',
-        'value': 0,
+        //'value': 0,
         'color': '#8aabb0'
     },
     {
         'code': 'PY',
         'name': 'Paraguay',
-        'value': 0,
+        //'value': 0,
         'color': '#86a965'
     },
     {
         'code': 'PE',
         'name': 'Peru',
-        'value': 0,
+        //'value': 0,
         'color': '#86a965'
     },
     {
         'code': 'PH',
         'name': 'Philippines',
-        'value': 0,
+        //'value': 0,
         'color': '#eea638'
     },
     {
@@ -1713,91 +1713,91 @@ var mapData = [{
     {
         'code': 'PT',
         'name': 'Portugal',
-        'value': 0,
+        //'value': 0,
         'color': '#d8854f'
     },
     {
         'code': 'PR',
         'name': 'Puerto Rico',
-        'value': 0,
+        //'value': 0,
         'color': '#a7a737'
     },
     {
         'code': 'QA',
         'name': 'Qatar',
-        'value': 0,
+        //'value': 0,
         'color': '#eea638'
     },
     {
         'code': 'RO',
         'name': 'Romania',
-        'value': 0,
+        //'value': 0,
         'color': '#d8854f'
     },
     {
         'code': 'RU',
         'name': 'Russia',
-        'value': 0,
+        //'value': 0,
         'color': '#d8854f'
     },
     {
         'code': 'RW',
         'name': 'Rwanda',
-        'value': 0,
+        //'value': 0,
         'color': '#de4c4f'
     },
     {
         'code': 'SA',
         'name': 'Saudi Arabia',
-        'value': 0,
+        //'value': 0,
         'color': '#eea638'
     },
     {
         'code': 'SN',
         'name': 'Senegal',
-        'value': 0,
+        //'value': 0,
         'color': '#de4c4f'
     },
     {
         'code': 'RS',
         'name': 'Serbia',
-        'value': 0,
+        //'value': 0,
         'color': '#d8854f'
     },
     {
         'code': 'SL',
         'name': 'Sierra Leone',
-        'value': 0,
+        //'value': 0,
         'color': '#de4c4f'
     },
     {
         'code': 'SG',
         'name': 'Singapore',
-        'value': 0,
+        //'value': 0,
         'color': '#eea638'
     },
     {
         'code': 'SK',
         'name': 'Slovak Republic',
-        'value': 0,
+        //'value': 0,
         'color': '#d8854f'
     },
     {
         'code': 'SI',
         'name': 'Slovenia',
-        'value': 0,
+        //'value': 0,
         'color': '#d8854f'
     },
     {
         'code': 'SB',
         'name': 'Solomon Islands',
-        'value': 0,
+        //'value': 0,
         'color': '#8aabb0'
     },
     {
         'code': 'SO',
         'name': 'Somalia',
-        'value': 0,
+        //'value': 0,
         'color': '#de4c4f'
     },
     {
@@ -1815,25 +1815,25 @@ var mapData = [{
     {
         'code': 'LK',
         'name': 'Sri Lanka',
-        'value': 0,
+        //'value': 0,
         'color': '#eea638'
     },
     {
         'code': 'SD',
         'name': 'Sudan',
-        'value': 0,
+        //'value': 0,
         'color': '#de4c4f'
     },
     {
         'code': 'SR',
         'name': 'Suriname',
-        'value': 0,
+        //'value': 0,
         'color': '#86a965'
     },
     {
         'code': 'SZ',
         'name': 'Swaziland',
-        'value': 0,
+        //'value': 0,
         'color': '#de4c4f'
     },
     {
@@ -1851,7 +1851,7 @@ var mapData = [{
     {
         'code': 'SY',
         'name': 'Syria',
-        'value': 0,
+        //'value': 0,
         'color': '#eea638'
     },
     {
@@ -1863,13 +1863,13 @@ var mapData = [{
     {
         'code': 'TJ',
         'name': 'Tajikistan',
-        'value': 0,
+        //'value': 0,
         'color': '#eea638'
     },
     {
         'code': 'TZ',
         'name': 'Tanzania',
-        'value': 0,
+        //'value': 0,
         'color': '#de4c4f'
     },
     {
@@ -1881,43 +1881,43 @@ var mapData = [{
     {
         'code': 'TG',
         'name': 'Togo',
-        'value': 0,
+        //'value': 0,
         'color': '#de4c4f'
     },
     {
         'code': 'TT',
         'name': 'Trinidad and Tobago',
-        'value': 0,
+        //'value': 0,
         'color': '#a7a737'
     },
     {
         'code': 'TN',
         'name': 'Tunisia',
-        'value': 0,
+        //'value': 0,
         'color': '#de4c4f'
     },
     {
         'code': 'TR',
         'name': 'Turkey',
-        'value': 0,
+        //'value': 0,
         'color': '#d8854f'
     },
     {
         'code': 'TM',
         'name': 'Turkmenistan',
-        'value': 0,
+        //'value': 0,
         'color': '#eea638'
     },
     {
         'code': 'UG',
         'name': 'Uganda',
-        'value': 0,
+        //'value': 0,
         'color': '#de4c4f'
     },
     {
         'code': 'UA',
         'name': 'Ukraine',
-        'value': 0,
+        //'value': 0,
         'color': '#d8854f'
     },
     {
@@ -1941,49 +1941,49 @@ var mapData = [{
     {
         'code': 'UY',
         'name': 'Uruguay',
-        'value': 0,
+        //'value': 0,
         'color': '#86a965'
     },
     {
         'code': 'UZ',
         'name': 'Uzbekistan',
-        'value': 0,
+        //'value': 0,
         'color': '#eea638'
     },
     {
         'code': 'VE',
         'name': 'Venezuela',
-        'value': 0,
+        //'value': 0,
         'color': '#86a965'
     },
     {
         'code': 'PS',
         'name': 'West Bank and Gaza',
-        'value': 0,
+        //'value': 0,
         'color': '#eea638'
     },
     {
         'code': 'VN',
         'name': 'Vietnam',
-        'value': 0,
+        //'value': 0,
         'color': '#eea638'
     },
     {
         'code': 'YE',
         'name': 'Yemen, Rep.',
-        'value': 0,
+        //'value': 0,
         'color': '#eea638'
     },
     {
         'code': 'ZM',
         'name': 'Zambia',
-        'value': 0,
+        //'value': 0,
         'color': '#de4c4f'
     },
     {
         'code': 'ZW',
         'name': 'Zimbabwe',
-        'value': 0,
+        //'value': 0,
         'color': '#de4c4f'
     }
 ]
