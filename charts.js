@@ -2028,7 +2028,7 @@ option = {
         }
     },
     geo: {
-        name: 'World Population (2010)',
+        name: '',
         type: 'map',
         map: 'world',
         roam: true,
@@ -2048,7 +2048,7 @@ option = {
         }
     },
     series: [{
-        type: 'scatter',
+        type: 'effectScatter',
         coordinateSystem: 'geo',
         data: mapData.map(function(itemOpt) {
             return {
@@ -2064,11 +2064,17 @@ option = {
                         show: true
                     }
                 },
+                showEffectOn: 'render',
+                rippleEffect: {
+                    brushType: 'stroke'
+                },
+                hoverAnimation: true,
                 itemStyle: {
                     normal: {
                         color: itemOpt.color
                     }
-                }
+                },
+                zlevel: 1
             }
         })
     }]
